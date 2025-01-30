@@ -52,9 +52,13 @@ ROC-AUC Curve
 
 ###📦 Patient-Mortality-Prediction
 ├── 📜 README.md  
+
 ├── 📂 data  # Dataset (train/test CSVs)
+
 ├── 📜 Patient Mortality Prediction Report.pdf  # Final Report
+
 ├── 📜 Patient Mortality Prediction code.ipynb  # Code Notebook
+
 └── 📜 Presentation.pptx  # Project Presentation
 
 ##References & Acknowledgments 📚
