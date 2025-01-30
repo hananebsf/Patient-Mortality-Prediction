@@ -62,7 +62,7 @@ ROC-AUC Curve
 
 └── 📜 Presentation.pptx  # Project Presentation
 
-##References & Acknowledgments 📚
+## References & Acknowledgments 📚
 
 - [EHR Dream Challenge 2019](https://www.synapse.org/#!Synapse:syn18405991/wiki/589657),: University of Washington & Sage Bionetworks
 - [OMOP Common Data Model](https://ohdsi.github.io/CommonDataModel/): OHDSI
