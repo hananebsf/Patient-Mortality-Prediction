@@ -1,6 +1,6 @@
 # Patient Mortality Prediction 🚑💡
 
-Project Overview
+## Project Overview
 
 This project aims to predict patient mortality within 180 days following their last recorded medical examination using Electronic Health Records (EHR). The goal is to develop an end-to-end machine learning pipeline that processes EHR data, engineers predictive features, and applies machine learning algorithms to improve predictive accuracy.
 
@@ -48,9 +48,10 @@ Recall
 F1-score
 ROC-AUC Curve
 
-##Project Structure 📂
+## Project Structure 📂
 
-###📦 Patient-Mortality-Prediction
+### 📦 Patient-Mortality-Prediction
+
 ├── 📜 README.md  
 
 ├── 📂 data  # Dataset (train/test CSVs)
