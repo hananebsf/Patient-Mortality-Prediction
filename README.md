@@ -43,10 +43,10 @@ Machine Learning Approach 🤖
 
 Since this is a binary classification task, we evaluate models using standard metrics:
 
-Precision
-Recall
-F1-score
-ROC-AUC Curve
+- Precision
+- Recall
+- F1-score
+- ROC-AUC Curve
 
 ## Project Structure 📂
 
